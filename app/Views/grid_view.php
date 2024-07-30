@@ -9,7 +9,7 @@
 </head>
 <body>
     <div class="container">
-        <h1 class="my-4">Grid Data</h1>
+        <h1 class="my-4">JQ Grid Data</h1>
         <table class="table table-bordered" id="gridTable">
             <thead class="thead-dark">
                 <tr>
